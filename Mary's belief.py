@@ -1,3 +1,4 @@
+#https://www.codewars.com/kata/58844a13aa037ff143000072/python
 #For young = true, beautiful = true and loved = true, the output should be false.
 #Young and beautiful people are loved according to Mary's belief.
 #For young = true, beautiful = false and loved = true, the output should be true.
